@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## JSALT 2018 Grounded Sequence-to-Sequence Transducers 
 
 You can use the [editor on GitHub](https://github.com/srvk/jsalt-2018-grounded-s2s/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
