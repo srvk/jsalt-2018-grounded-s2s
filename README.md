@@ -1,6 +1,6 @@
-# [JSALT 2018](https://www.clsp.jhu.edu/workshops/18-workshop/) Grounded Sequence-to-Sequence Transducers Team
+# JSALT 2018 Grounded Sequence-to-Sequence Transducers Team
 
-We are a team of computational linguistic researchers from different  that will be working together for six weeks
+We are a team of computational linguistics researchers from academia ans industry that will be working together for six weeks during the [Frederick Jelinek Memorial Summer Workshop](https://www.clsp.jhu.edu/workshops/18-workshop/) at John Hopkins University.
 
 ## What is the project about?
 
@@ -10,27 +10,25 @@ As a first step, we will combine written, spoken, and seen objects and actions i
 
 The tasks we propose generate natural language, which has a number of well-known challenges, such as dealing with lexical, syntactic and semantic ambiguities, and referential resolution. Grounding language using other modalities, e.g. visual and audio information such as what we propose here, can help overcome these challenges. Information extracted from speech, audio and video will serve as rich context models for the various tasks we plan to address.
 
-## Team
-
 ## Team Leaders
 - Lucia Specia (Sheffield University)
 
 ## Senior Researchers
 - Loic Barrault (Le Mans University)
 - Desmond Elliott (Senior Researcher)
-- Florian Metze (CMU)
 - Christian Fuegen (Facebook)
+- Florian Metze (CMU)
 
 ## Graduate Students
 - Ozan Caglayan (Le Mans University)
-- Spandana Gella 
+- Spandana Gella (?)
 - Nils Holzenberger (JHU)
 - Shruti Palaskar (CMU)
 
 ## Undergraduate Students
-- Alissa Ostapenko (Undergraduate) —housing, per diem, roundtrip travel, stipend
-- Karl Mulligan  (Undergraduate)—housing, per diem, roundtrip travel, stipend
-- Sun Jae Lee  (Undergraduate)—housing, per diem, roundtrip travel, stipend
+- Sun Jae Lee  (?)
+- Karl Mulligan  (?)
+- Alissa Ostapenko (?)
 
 ## Researcg Associates
 - Pranava Madhyastha (Sheffield University)
@@ -38,18 +36,3 @@ The tasks we propose generate natural language, which has a number of well-known
 - Josiah Wang (Sheffield University)
 
 
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/srvk/jsalt-2018-grounded-s2s/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
