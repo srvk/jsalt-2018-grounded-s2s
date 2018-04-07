@@ -31,8 +31,8 @@ The tasks we propose generate natural language, which has a number of well-known
 - Alissa Ostapenko (?)
 
 ## Research Associates
-- Pranava Madhyastha (Sheffield University)
-- Ramon Sanabria (CMU)
+- [Pranava Madhyastha](http://staffwww.dcs.shef.ac.uk/people/P.Madhyastha/index.html) (Sheffield University)
+- [Ramon Sanabria](http://www.cs.cmu.edu/~ramons/) (CMU)
 - Josiah Wang (Sheffield University)
 
 
