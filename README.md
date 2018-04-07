@@ -1,6 +1,6 @@
 # JSALT 2018 Grounded Sequence-to-Sequence Transducers Team
 
-We are a team of computational linguistics researchers from academia ans industry that will be working together for six weeks during the [Frederick Jelinek Memorial Summer Workshop](https://www.clsp.jhu.edu/workshops/18-workshop/) at John Hopkins University.
+We are a team of comput ational linguistics researchers from different institutions (academia and industry). We will be working on algorithms for language grounding using multiple modalities for six weeks during the [Frederick Jelinek Memorial Summer Workshop](https://www.clsp.jhu.edu/workshops/18-workshop/) at John Hopkins University.
 
 ## What is the project about?
 
@@ -23,7 +23,7 @@ The tasks we propose generate natural language, which has a number of well-known
 - [Ozan Caglayan](http://www-lium.univ-lemans.fr/~caglayan/) (Le Mans University)
 - [Spandana Gella](http://spandanagella.com/) (University of Edinburgh)
 - [Nils Holzenberger](http://www.cs.jhu.edu/~nholzen1/) (JHU)
-- Shruti Palaskar (CMU)
+- [Shruti Palaskar](https://github.com/shrutijpalaskar) (CMU)
 
 ## Undergraduate Students
 - Sun Jae Lee  (?)
@@ -34,5 +34,7 @@ The tasks we propose generate natural language, which has a number of well-known
 - [Pranava Madhyastha](http://staffwww.dcs.shef.ac.uk/people/P.Madhyastha/index.html) (Sheffield University)
 - [Ramon Sanabria](http://www.cs.cmu.edu/~ramons/) (CMU)
 - Josiah Wang (Sheffield University)
+
+That is a part of team. Picture with the whole of us comming soon :)
 
 
