@@ -1,9 +1,8 @@
-## [JSALT 2018](https://www.clsp.jhu.edu/workshops/18-workshop/) Grounded Sequence-to-Sequence Transducers Team
+# [JSALT 2018](https://www.clsp.jhu.edu/workshops/18-workshop/) Grounded Sequence-to-Sequence Transducers Team
 
+We are a team of computational linguistic researchers from different  that will be working together for six weeks
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### About
+## What is the project about?
 
 Video understanding is one of the hardest challenges in Artificial Intelligence research. If a machine can look at videos, and “understand” the events that are being shown, then machines could learn by themselves, perhaps even without supervision, simply by “watching” broadcast TV, Facebook, Youtube, or similar sites.
 
@@ -11,13 +10,34 @@ As a first step, we will combine written, spoken, and seen objects and actions i
 
 The tasks we propose generate natural language, which has a number of well-known challenges, such as dealing with lexical, syntactic and semantic ambiguities, and referential resolution. Grounding language using other modalities, e.g. visual and audio information such as what we propose here, can help overcome these challenges. Information extracted from speech, audio and video will serve as rich context models for the various tasks we plan to address.
 
-### Team
+## Team
 
-- Bulleted
-- List
+## Team Leaders
+- Lucia Specia (Sheffield University)
 
-1. Numbered
-2. List
+## Senior Researchers
+- Loic Barrault (Le Mans University)
+- Desmond Elliott (Senior Researcher)
+- Florian Metze (CMU)
+- Christian Fuegen (Facebook)
+
+## Graduate Students
+- Ozan Caglayan (Le Mans University)
+- Spandana Gella 
+- Nils Holzenberger (JHU)
+- Shruti Palaskar (CMU)
+
+## Undergraduate Students
+- Alissa Ostapenko (Undergraduate) —housing, per diem, roundtrip travel, stipend
+- Karl Mulligan  (Undergraduate)—housing, per diem, roundtrip travel, stipend
+- Sun Jae Lee  (Undergraduate)—housing, per diem, roundtrip travel, stipend
+
+## Researcg Associates
+- Pranava Madhyastha (Sheffield University)
+- Ramon Sanabria (CMU)
+- Josiah Wang (Sheffield University)
+
+
 
 **Bold** and _Italic_ and `Code` text
 
