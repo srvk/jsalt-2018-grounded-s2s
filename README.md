@@ -38,7 +38,8 @@ The tasks we propose generate natural language, which has a number of well-known
 Here is a part of team:
 
 
-![alt text](https://github.com/srvk/jsalt-2018-grounded-s2s/blob/master/20180309_141446.jpg)
+
+![alt text](https://raw.githubusercontent.com/srvk/jsalt-2018-grounded-s2s/blob/master/20180309_141446.jpg)
 
 
 
