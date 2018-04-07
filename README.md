@@ -35,6 +35,11 @@ The tasks we propose generate natural language, which has a number of well-known
 - [Ramon Sanabria](http://www.cs.cmu.edu/~ramons/) (CMU)
 - Josiah Wang (Sheffield University)
 
-That is a part of team. Picture with the whole of us comming soon :)
+Here is a part of team:
+
+
+Picture with all of us comming soon :)
+
+Cheers!
 
 
