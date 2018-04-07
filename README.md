@@ -10,7 +10,7 @@ As a first step, we will combine written, spoken, and seen objects and actions i
 
 The tasks we propose generate natural language, which has a number of well-known challenges, such as dealing with lexical, syntactic and semantic ambiguities, and referential resolution. Grounding language using other modalities, e.g. visual and audio information such as what we propose here, can help overcome these challenges. Information extracted from speech, audio and video will serve as rich context models for the various tasks we plan to address.
 
-## Team Leaders
+## Team Leader
 - [Lucia Specia](http://staffwww.dcs.shef.ac.uk/people/L.Specia/) (Sheffield University)
 
 ## Senior Researchers
