@@ -33,9 +33,10 @@ The tasks we propose generate natural language, which has a number of well-known
 ## Research Associates
 - [Pranava Madhyastha](http://staffwww.dcs.shef.ac.uk/people/P.Madhyastha/index.html) (Sheffield University)
 - [Ramon Sanabria](http://www.cs.cmu.edu/~ramons/) (CMU)
-- Josiah Wang (Sheffield University)
+- [Josiah Wang](http://josiahwang.com/) (Sheffield University)
 
 Here is a part of team:
+
 
 
 Picture with all of us comming soon :)
