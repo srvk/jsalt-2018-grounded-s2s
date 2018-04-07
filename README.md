@@ -11,18 +11,18 @@ As a first step, we will combine written, spoken, and seen objects and actions i
 The tasks we propose generate natural language, which has a number of well-known challenges, such as dealing with lexical, syntactic and semantic ambiguities, and referential resolution. Grounding language using other modalities, e.g. visual and audio information such as what we propose here, can help overcome these challenges. Information extracted from speech, audio and video will serve as rich context models for the various tasks we plan to address.
 
 ## Team Leaders
-- Lucia Specia (Sheffield University)
+- [Lucia Specia](http://staffwww.dcs.shef.ac.uk/people/L.Specia/) (Sheffield University)
 
 ## Senior Researchers
-- Loic Barrault (Le Mans University)
-- Desmond Elliott (Senior Researcher)
-- Christian Fuegen (Facebook)
-- Florian Metze (CMU)
+- [Loic Barrault](http://www-lium.univ-lemans.fr/~barrault/) (Le Mans University)
+- [Desmond Elliott](http://homepages.inf.ed.ac.uk/s0128959/) (University of Edinburgh)
+- [Christian Fuegen](https://research.fb.com/people/fuegen-christian/) (Facebook)
+- [Florian Metze](http://www.cs.cmu.edu/~fmetze/interACT/Home.html) (CMU)
 
 ## Graduate Students
-- Ozan Caglayan (Le Mans University)
-- Spandana Gella (?)
-- Nils Holzenberger (JHU)
+- [Ozan Caglayan](http://www-lium.univ-lemans.fr/~caglayan/) (Le Mans University)
+- [Spandana Gella](http://spandanagella.com/) (University of Edinburgh)
+- [Nils Holzenberger](http://www.cs.jhu.edu/~nholzen1/) (JHU)
 - Shruti Palaskar (CMU)
 
 ## Undergraduate Students
@@ -30,7 +30,7 @@ The tasks we propose generate natural language, which has a number of well-known
 - Karl Mulligan  (?)
 - Alissa Ostapenko (?)
 
-## Researcg Associates
+## Research Associates
 - Pranava Madhyastha (Sheffield University)
 - Ramon Sanabria (CMU)
 - Josiah Wang (Sheffield University)
