@@ -39,7 +39,7 @@ Here is a part of team:
 
 
 
-![alt text](https://raw.githubusercontent.com/srvk/jsalt-2018-grounded-s2s/blob/master/20180309_141446.jpg)
+![alt text](https://raw.githubusercontent.com/srvk/jsalt-2018-grounded-s2s/master/20180309_141446.jpg)
 
 
 
