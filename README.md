@@ -19,21 +19,22 @@ The tasks we propose generate natural language, which has a number of well-known
 - [Christian Fuegen](https://research.fb.com/people/fuegen-christian/) (Facebook)
 - [Florian Metze](http://www.cs.cmu.edu/~fmetze/interACT/Home.html) (CMU)
 
+## PostDocs
+- [Pranava Madhyastha](http://staffwww.dcs.shef.ac.uk/people/P.Madhyastha/index.html) (Sheffield University)
+- [Josiah Wang](http://josiahwang.com/) (Sheffield University)
+
 ## Graduate Students
 - [Ozan Caglayan](http://www-lium.univ-lemans.fr/~caglayan/) (Le Mans University)
 - [Spandana Gella](http://spandanagella.com/) (University of Edinburgh)
 - [Nils Holzenberger](http://www.cs.jhu.edu/~nholzen1/) (JHU)
 - [Shruti Palaskar](https://github.com/shrutijpalaskar) (CMU)
+- [Ramon Sanabria](http://www.cs.cmu.edu/~ramons/) (CMU)
 
 ## Undergraduate Students
 - Sun Jae Lee  (?)
 - Karl Mulligan  (?)
 - Alissa Ostapenko (?)
 
-## Research Associates
-- [Pranava Madhyastha](http://staffwww.dcs.shef.ac.uk/people/P.Madhyastha/index.html) (Sheffield University)
-- [Ramon Sanabria](http://www.cs.cmu.edu/~ramons/) (CMU)
-- [Josiah Wang](http://josiahwang.com/) (Sheffield University)
 
 Here is a part of team:
 
