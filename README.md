@@ -19,7 +19,7 @@ The tasks we propose generate natural language, which has a number of well-known
 - [Christian Fuegen](https://research.fb.com/people/fuegen-christian/) (Facebook)
 - [Florian Metze](http://www.cs.cmu.edu/~fmetze/interACT/Home.html) (CMU)
 
-## PostDocs
+## Postdoctoral Researchers
 - [Pranava Madhyastha](http://staffwww.dcs.shef.ac.uk/people/P.Madhyastha/index.html) (Sheffield University)
 - [Josiah Wang](http://josiahwang.com/) (Sheffield University)
 
