@@ -36,7 +36,7 @@ The tasks we propose generate natural language, which has a number of well-known
 - Alissa Ostapenko (?)
 
 
-Here is a part of team:
+Here is a part of the team:
 
 
 
