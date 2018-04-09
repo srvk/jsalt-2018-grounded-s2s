@@ -17,7 +17,7 @@ The tasks we propose generate natural language, which has a number of well-known
 - [Loic Barrault](http://www-lium.univ-lemans.fr/~barrault/) (Le Mans University)
 - [Desmond Elliott](http://homepages.inf.ed.ac.uk/s0128959/) (University of Edinburgh)
 - [Christian Fuegen](https://research.fb.com/people/fuegen-christian/) (Facebook)
-- [Florian Metze](http://www.cs.cmu.edu/~fmetze/interACT/Home.html) (CMU)
+- [Florian Metze](http://www.cs.cmu.edu/~fmetze/interACT/Home.html) (Carnegie Mellon University)
 
 ## Postdoctoral Researchers
 - [Pranava Madhyastha](http://staffwww.dcs.shef.ac.uk/people/P.Madhyastha/index.html) (Sheffield University)
@@ -26,9 +26,9 @@ The tasks we propose generate natural language, which has a number of well-known
 ## Graduate Students
 - [Ozan Caglayan](http://www-lium.univ-lemans.fr/~caglayan/) (Le Mans University)
 - [Spandana Gella](http://spandanagella.com/) (University of Edinburgh)
-- [Nils Holzenberger](http://www.cs.jhu.edu/~nholzen1/) (JHU)
-- [Shruti Palaskar](https://github.com/shrutijpalaskar) (CMU)
-- [Ramon Sanabria](http://www.cs.cmu.edu/~ramons/) (CMU)
+- [Nils Holzenberger](http://www.cs.jhu.edu/~nholzen1/) (Johns Hopkins University)
+- [Shruti Palaskar](https://github.com/shrutijpalaskar) (Carnegie Mellon University)
+- [Ramon Sanabria](http://www.cs.cmu.edu/~ramons/) (Carnegie Mellon University)
 
 ## Undergraduate Students
 - Sun Jae Lee  (University of Pennsylvania)
