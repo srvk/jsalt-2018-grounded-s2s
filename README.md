@@ -31,9 +31,9 @@ The tasks we propose generate natural language, which has a number of well-known
 - [Ramon Sanabria](http://www.cs.cmu.edu/~ramons/) (CMU)
 
 ## Undergraduate Students
-- Sun Jae Lee  (?)
-- Karl Mulligan  (?)
-- Alissa Ostapenko (?)
+- Sun Jae Lee  (University of Pennsylvania)
+- Karl Mulligan  (Rutgers University)
+- Alissa Ostapenko (Worcester Polytechnic Institute)
 
 
 Here there is a part of the team:
