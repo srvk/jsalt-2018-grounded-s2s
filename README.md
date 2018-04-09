@@ -44,7 +44,7 @@ Here there is a part of the team:
 
 
 
-Picture with all of us comming soon :)
+Picture with all of us coming soon :)
 
 Cheers!
 
