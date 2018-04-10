@@ -15,7 +15,7 @@ The tasks we propose generate natural language, which has a number of well-known
 
 ## Senior Researchers
 - [Loic Barrault](http://www-lium.univ-lemans.fr/~barrault/) (Le Mans University)
-- [Desmond Elliott](http://homepages.inf.ed.ac.uk/s0128959/) (University of Edinburgh)
+- [Desmond Elliott](http://homepages.inf.ed.ac.uk/delliot/) (University of Edinburgh)
 - [Christian Fuegen](https://research.fb.com/people/fuegen-christian/) (Facebook)
 - [Florian Metze](http://www.cs.cmu.edu/~fmetze/interACT/Home.html) (Carnegie Mellon University)
 
