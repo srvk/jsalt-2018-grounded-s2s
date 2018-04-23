@@ -38,11 +38,8 @@ The tasks we propose generate natural language, which has a number of well-known
 
 ## Related Publications
 
-
 - ASR
-  - a
-  - b
-  - c
+  - https://arxiv.org/pdf/1712.00489.pdf
 
 Here there is a part of the team:
 
