@@ -36,6 +36,14 @@ The tasks we propose generate natural language, which has a number of well-known
 - Alissa Ostapenko (Worcester Polytechnic Institute)
 
 
+## Related Publications
+
+
+- ASR
+  - a
+  - b
+  - c
+
 Here there is a part of the team:
 
 
