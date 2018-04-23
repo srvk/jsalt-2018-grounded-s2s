@@ -11,9 +11,9 @@ As a first step, we will combine written, spoken, and seen objects and actions i
 The tasks we propose generate natural language, which has a number of well-known challenges, such as dealing with lexical, syntactic and semantic ambiguities, and referential resolution. Grounding language using other modalities, e.g. visual and audio information such as what we propose here, can help overcome these challenges. Information extracted from speech, audio and video will serve as rich context models for the various tasks we plan to address.
 
 ## Dataset - HowTo Videos Corpus
-The dataset we will use in this project is a set of instructional videos called the *HowTo corpus* containing about 2000 hours of speech. We are collecting Portuguese (possibly Turkish) translations for these videos via crowd sourcing. A dataset website coming soon, but in the meantime...
+The dataset we will use in this project is a set of instructional videos called the _HowTo corpus_ containing about 2000 hours of speech. We are collecting Portuguese (possibly Turkish) translations for these videos via crowd sourcing. We will also be collecting a special summarization dataset from these HowTo videos. A dataset website and more information coming soon -- in the meantime...
 
-[Here](http://speechkitchen.org:5888) is the topic distribution visualization for this dataset. We find that 25 topics including *yoga, cooking, sports, guitar, sewing, and many more* are most representative of the dataset. Toggle the options in the interactive visualization and have fun!
+[Here](http://speechkitchen.org:5888) is the topic distribution visualization for this dataset. We find that 25 topics including *yoga, cooking, sports, guitar, sewing, and many more* are most representative of the dataset. Set the relevance metric on the right to ~0.2 and click on a particular topic cluster to see the top words in each topic. Toggle the options in the interactive visualization and have fun!
 
 ## Team Leader
 - [Lucia Specia](http://staffwww.dcs.shef.ac.uk/people/L.Specia/) (Sheffield University)
