@@ -36,10 +36,17 @@ The tasks we propose generate natural language, which has a number of well-known
 - Alissa Ostapenko (Worcester Polytechnic Institute)
 
 
+## Dataset - HowTo Videos Corpus
+The dataset we will use in this project is a set of instructional videos called the *HowTo corpus* containing about 2000 hours of speech. We are collecting Portuguese (possibly Turkish) translations for these videos via crowd sourcing. A dataset website coming soon, in the meantime...
+
+[Here] (http://speechkitchen.org:5888) is the topic distribution visualization for this dataset. We find that 25 topics including *yoga, cooking, sports, guitar, sewing, and many more* are most representative of the dataset. Toggle the options in the interactive visualization and have fun!
+
 ## Related Publications
 
 - ASR
   - https://arxiv.org/pdf/1712.00489.pdf
+  
+
 
 Here there is a part of the team:
 
