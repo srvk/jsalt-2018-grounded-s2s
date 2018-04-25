@@ -34,9 +34,11 @@ The dataset we will use in this project is a set of instructional videos called 
 - [Nils Holzenberger](http://www.cs.jhu.edu/~nholzen1/) (Johns Hopkins University)
 - [Shruti Palaskar](https://github.com/shrutijpalaskar) (Carnegie Mellon University)
 - [Ramon Sanabria](http://www.cs.cmu.edu/~ramons/) (Carnegie Mellon University)
+- [Amanda Duarte] (https://imatge.upc.edu/web/people/amanda-duarte/) (Universitat Politècnica de Catalunya)
+- [Jindřich Libovický] (http://ufal.mff.cuni.cz/jindrich-libovicky) (Charles University)
 
 ## Undergraduate Students
-- Sun Jae Lee  (University of Pennsylvania)
+- Jasmine (Sun Jae) Lee  (University of Pennsylvania)
 - Karl Mulligan  (Rutgers University)
 - Alissa Ostapenko (Worcester Polytechnic Institute)
 
