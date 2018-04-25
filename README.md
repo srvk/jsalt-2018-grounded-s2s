@@ -1,4 +1,4 @@
-# [JSALT 2018 Grounded Sequence-to-Sequence Transducers Team](https://srvk.github.io/jsalt-2018-grounded-s2s/)
+# [JSALT 2018 Grounded Sequence-to-Sequence Transducers](https://srvk.github.io/jsalt-2018-grounded-s2s/)
 
 We are a team of computational linguistics researchers from different institutions (academia and industry). We will be working on algorithms for language grounding using multiple modalities during six weeks in the [Frederick Jelinek Memorial Summer Workshop](https://www.clsp.jhu.edu/workshops/18-workshop/) at John Hopkins University.
 
@@ -34,8 +34,8 @@ The dataset we will use in this project is a set of instructional videos called 
 - [Nils Holzenberger](http://www.cs.jhu.edu/~nholzen1/) (Johns Hopkins University)
 - [Shruti Palaskar](https://github.com/shrutijpalaskar) (Carnegie Mellon University)
 - [Ramon Sanabria](http://www.cs.cmu.edu/~ramons/) (Carnegie Mellon University)
-- [Amanda Duarte] (https://imatge.upc.edu/web/people/amanda-duarte/) (Universitat Politècnica de Catalunya)
-- [Jindřich Libovický] (http://ufal.mff.cuni.cz/jindrich-libovicky) (Charles University)
+- [Amanda Duarte](https://imatge.upc.edu/web/people/amanda-duarte/) (Universitat Politècnica de Catalunya)
+- [Jindřich Libovický](http://ufal.mff.cuni.cz/jindrich-libovicky) (Charles University)
 
 ## Undergraduate Students
 - Jasmine (Sun Jae) Lee  (University of Pennsylvania)
