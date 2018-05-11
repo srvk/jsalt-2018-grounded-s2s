@@ -1,4 +1,4 @@
-# [JSALT 2018 Grounded Sequence-to-Sequence Transducers](https://srvk.github.io/jsalt-2018-grounded-s2s/)
+# [JSALT 2018 Grounded Sequence-to-Sequence Transduction](https://srvk.github.io/jsalt-2018-grounded-s2s/)
 
 We are a team of computational linguistics researchers from different institutions (academia and industry). We will be working on algorithms for language grounding using multiple modalities during six weeks in the [Frederick Jelinek Memorial Summer Workshop](https://www.clsp.jhu.edu/workshops/18-workshop/) at John Hopkins University.
 
