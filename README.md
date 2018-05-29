@@ -43,13 +43,6 @@ The dataset we will use in this project is a set of instructional videos called 
 - Alissa Ostapenko (Worcester Polytechnic Institute)
 
 
-## Related Publications
-
-- ASR
-  - https://arxiv.org/pdf/1712.00489.pdf
-  
-
-
 Here there is a part of the team:
 
 
